@@ -1,0 +1,10 @@
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\bin\Debug\InspectorLibTest.exe.config
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\bin\Debug\InspectorLibTest.exe
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\bin\Debug\InspectorLibTest.pdb
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\bin\Debug\InspectorLib.dll
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\bin\Debug\InspectorLib.pdb
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\obj\Debug\InspectorLibTest.csproj.AssemblyReference.cache
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\obj\Debug\InspectorLibTest.csproj.CoreCompileInputs.cache
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\obj\Debug\InspectorLibTest.csproj.CopyComplete
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\obj\Debug\InspectorLibTest.exe
+C:\Users\krist\source\repos\InspectorLibTest\InspectorLibTest\obj\Debug\InspectorLibTest.pdb
